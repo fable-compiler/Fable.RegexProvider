@@ -8,6 +8,8 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Fable.Core" Version="3.0.0" />
+    <!-- When using a project reference, Fable will merge the source files.
+         So we need to reference the .dll directly. -->    
     <Reference Include="../src/bin/Debug/netstandard2.0/Fable.RegexProvider.dll" />
   </ItemGroup>
   <!-- <ItemGroup>
