@@ -255,3 +255,5 @@ paket-files/
 docs/public/*
 !docs/public/assets/
 temp/
+
+.ionide
