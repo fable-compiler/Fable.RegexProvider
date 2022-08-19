@@ -1,3 +1,5 @@
+> **WARNING**: Since v3.7.18 Fable supports [FSharp.Text.RegexProvider](http://fsprojects.github.io/FSharp.Text.RegexProvider/), please use that one instead as it's more feature complete.
+
 # Fable.RegexProvider
 
 Simple F# Regex Type Provider compatible with Fable.
